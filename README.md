@@ -1,4 +1,4 @@
-## Kia Ora,
+## Hi,
 
 I am a design technologist that enjoys crafting software for humans.
 
