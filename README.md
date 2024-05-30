@@ -1,5 +1,5 @@
 ## Hi,
 
-I am a design technologist that enjoys crafting software for humans.
+I am a software engineer that enjoys crafting software for humans.
 
-I primarily work with Golang, Rust and TypeScript.
+I primarily work with Rust, Golang and TypeScript.
