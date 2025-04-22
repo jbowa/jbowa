@@ -1,6 +1,5 @@
-✦ Software Engineer✦  
-·.˚ ✦.·  
-I occasionally reach for JS/TS, Python, Rust and Go.  
-I have previously touched C++, Java and Swift.  · ✦.·  
-Currently dabbling in AI/ML, Cryptography and WebGPU .·  
-·.˚ ✦.·  
+Software Engineer
+
+Rust - Go - Python - JavaScript - TypeScripy.
+previously touched C++, Java and Swift.
+Interested in Cryptography and GPUs (WebGPU).
