@@ -1,3 +1,4 @@
-Software Engineer
+Hi 👋
 
-All things engineering.
+Interests: Cryptography & GPUs (WebGPU)
+
