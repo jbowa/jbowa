@@ -1,6 +1,6 @@
 Hi 👋,
 
-Engineer with a passion for cryptography / GPU programming
+Engineer with a passion for cryptography, distributed systems & GPU's.
 
 ## Things I am working on
 ### Jacana [WIP]
