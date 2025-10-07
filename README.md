@@ -5,5 +5,5 @@ Engineer with a passion for design, cryptography, distributed systems & GPU's.
 ## Things I am working on
 ### Jacana [WIP]
 
-A low latency geyser plugin for Solana utilizing ClickHouse as its data store. https://github.com/jbowa/jacana
+A high-throughput Solana Geyser plugin for real-time blockchain data ingestion using ClickHouse as its columnar data store. https://github.com/mip404/jacana
 
